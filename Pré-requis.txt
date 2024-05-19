@@ -1,0 +1,50 @@
+- Il faut tout d'abord que le module Pygame soit installé sur votre logiciel.
+
+- Vérifier si vous le voulez que toutes les images soient là :
+
+	Dossier Ressources :
+		. egal.png
+		. fond_bouton_aide.png
+		. menu_pause.png
+		. son.wav
+		. succes_fond0.png
+		. succes_fond1.png
+		. vitesse_fond0.png
+		. vitesse_fond1.png
+		. Dossier "Chrono"
+		. Dossier "Succès"
+	
+	Dossier Vitesse :
+		. bouton_niveau0.png
+		. coin.png
+		. fond_bouton.png
+		. fond_clicker.png
+		. fond_clicker2.png
+		. fond_clicker3.png
+		. fond_clicker4.png
+		. fond_clicker5.png
+		. menu_deroulant
+
+	Dossier Succès :
+		. auto1.png
+		. auto2.png
+		. auto3.png
+		. bouton_niveau0.png
+		. cadenas.png
+		. catala.png
+		. coffre.png
+		. coffre1.png
+		. coffre2.png
+		. coin.png
+		. fond_bouton.png
+		. fond_clicker.png
+		. fond_succes.png
+		. menu_deroulant
+		. piece1.png
+		. piece2.png
+		. piece3.png
+		. return.png
+
+Si tout est là, vous pouvez jouer ! :)
+S'il y a un problème au niveau du chargement des images, vous devrez changer le chemin de chaque image dans le programme...
+Cela peut être embêtant mais c'est le seul problème que nous n'arrivons pas à corriger.
